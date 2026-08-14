@@ -52,6 +52,7 @@ See [`Solution.java`](./Solution.java).
 
 ## ⏱️ Complexity
 
+
 Building the Segment Tree takes `O(n)` time.
 
 Each character update requires traversing one path from the root to a leaf and merging the affected nodes.
