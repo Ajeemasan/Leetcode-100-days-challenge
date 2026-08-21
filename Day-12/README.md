@@ -79,7 +79,7 @@ This allows all subsets to be processed efficiently.
 
 💻 Solution
 
-See Solution.java.
+[Solution.java](./Solution.java)
 
 ⏱️ Complexity
 
