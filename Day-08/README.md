@@ -65,3 +65,4 @@ The main idea I learned from this problem is:
 Using **prefix sums** makes calculating the sum of each possible split efficient, while **memoization** prevents the same subproblem from being solved repeatedly.
 
 This problem helped me practice **interval DP, prefix sums, and recursive memoization**.
+
