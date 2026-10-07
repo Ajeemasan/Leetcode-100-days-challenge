@@ -30,5 +30,4 @@ See [Solution.java](./Solution.java).
 - **Space:** O(1)
 
 ## 📌 Key Takeaway
-
-For geometry problems, finding the **closest point** between two shapes can simplify intersection checks significantly. Using squared distances also avoids unnecessary square-root calculations.
+ions.
