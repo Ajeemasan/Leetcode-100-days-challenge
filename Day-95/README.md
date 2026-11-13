@@ -1,4 +1,4 @@
-# Day 96 — Longest Strictly Increasing or Strictly Decreasing Subarray
+# Day 95 — Longest Strictly Increasing or Strictly Decreasing Subarray
 
 **LeetCode:** [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/)
 
